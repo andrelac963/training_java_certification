@@ -24,7 +24,7 @@ public class AlternativesEntity {
 
   private String description;
 
-  private Boolean isCorrect;
+  private boolean isCorrect;
 
   @CreationTimestamp
   private LocalDateTime createdAt;

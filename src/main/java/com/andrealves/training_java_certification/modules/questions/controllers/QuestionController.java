@@ -1,4 +1,4 @@
-package com.andrealves.training_java_certification.modules.questions.controller;
+package com.andrealves.training_java_certification.modules.questions.controllers;
 
 import java.util.List;
 import java.util.stream.Collectors;
